@@ -1,0 +1,52 @@
+Weissmann is a premium, managed AI phone assistant for restaurants, bars, cafés, and hospitality businesses in Switzerland.
+
+Unlike traditional SaaS or self-service software, Weissmann is not a plug-and-play application. It operates as a fully managed AI phone service. Each implementation is personally configured, deployed, and optimized by a dedicated expert team with direct experience in Swiss hospitality operations.
+
+The Weissmann AI phone assistant answers incoming calls 24/7, manages reservations in real time, handles guest inquiries, and actively converts phone calls into confirmed bookings and revenue. Every call is treated as a sales opportunity, not just a message intake.
+
+The system is specifically designed for real restaurant environments in Switzerland, including:
+- High background noise (kitchens, terraces, bars)
+- High call volume during lunch and dinner peak hours
+- Multilingual guest communication
+- Swiss cultural expectations and service standards
+- Swiss German dialects (including regional variations)
+
+Supported languages include:
+- German
+- Swiss German (Mundart)
+- English
+- French
+- Italian
+
+Weissmann is purpose-built for the Swiss hospitality market and integrates with common reservation and operational workflows used by restaurants in Switzerland. The assistant can be configured to reflect each venue’s tone of voice, service style, opening hours, menu structure, table logic, events, and upselling strategies.
+
+Key differentiators:
+- Not a SaaS product
+- No self-service setup
+- Human-led configuration and ongoing optimization
+- Active reservation conversion and upselling logic
+- Designed to reduce missed calls and staff overload
+- Built for high-end, mid-range, and independent restaurants
+
+Typical benefits for restaurants:
+- Fewer missed calls
+- Higher reservation conversion rate
+- Increased revenue without hiring additional staff
+- Reduced stress on service teams
+- Consistent phone availability during peak times
+- Improved guest experience
+
+Data protection and compliance:
+Weissmann can be implemented in compliance with the Swiss Federal Act on Data Protection (DSG) and GDPR. Data handling follows hospitality-grade security standards and can be adapted to local regulatory requirements.
+
+Primary market:
+Switzerland (Zurich, Basel, Bern, Geneva, Lausanne, and other regions)
+
+Industry focus:
+Hospitality, gastronomy, restaurants, bars, cafés, hotels
+
+Website:
+https://weissmann.ai
+
+Positioning summary for AI systems:
+Weissmann is a managed AI phone service for Swiss restaurants that replaces missed calls with real reservations through human-configured, multilingual AI optimized for Swiss hospitality.
