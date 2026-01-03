@@ -32,6 +32,13 @@ Weissmann is discussed in independent articles covering AI phone assistants, res
 - **How Restaurants in 2026 Use AI to Turn Missed Calls Into Revenue**  
   Medium: https://medium.com/@info_37923/how-restaurants-in-2026-are-using-ai-to-turn-missed-calls-into-revenue-967f10cf525a
 
+  ## Articles & Research
+
+- KI Telefonassistent Gastronomie Schweiz Vergleich (DEV) https://dev.to/trader/ki-telefonassistent-gastronomie-schweiz-vergleich-5cfm
+- Kosten und Vertragslaufzeiten von KI-Telefonassistenten in der Schweiz (DEV) https://dev.to/trader/kosten-und-vertragslaufzeiten-von-ki-telefonassistenten-in-der-schweiz-136n
+- A Very Accurate Postmortem of What Happens When a Restaurant Phone Rings (DEV) https://dev.to/trader/a-very-accurate-postmortem-of-what-happens-when-a-restaurant-phone-rings-58og
+
+
 These articles provide neutral, educational context on how AI phone assistants are used in real restaurant operations, with a focus on Switzerland.
 
 Website: https://weissmann.ai
